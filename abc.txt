@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+my name is shahbad.
+=======
+Thi is sample file, thank you.
+>>>>>>> Stashed changes
